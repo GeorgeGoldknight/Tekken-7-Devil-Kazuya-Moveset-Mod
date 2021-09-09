@@ -1,6 +1,6 @@
 # "STORY" Devil Kazuya Double Moveset Mod Pack, for Tekken 7, modified with T7 mechanics by GeorgeGoldknight (Discord: GeorgeGoldknight, Mod Showcase: https://www.youtube.com/watch?v=xA3Y1dDl_EA). 
 
-# Alternative Download Link: https://tekkenmods.com/mod/982/story-devil-kazuya-double-moveset-mod-pack
+# Official Download Link: https://tekkenmods.com/mod/982/story-devil-kazuya-double-moveset-mod-pack
 
 # Disclaimer
 This moveset mod is based on Kazuya's and Devil Kazuya's movesets, designed and animated by Bandai Namco and the Tekken Project. 
